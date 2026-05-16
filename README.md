@@ -78,6 +78,10 @@ A test in the suite (`test_never_emits_values_in_json_or_markdown`) writes a fak
 - Quoted values are detected as "present" even if the quoted content is empty (`KEY=""` is *empty*, not missing).
 - Custom env-file naming conventions need explicit `--example/--env`.
 
+## Examples
+
+Step-by-step walkthroughs with real input fixtures and the helper's actual output live in [`examples/`](./examples/README.md). Three or four scenarios per plugin — from the happy path to the edge cases the test suite guards.
+
 ## Part of the pluginpool family
 
 Ten focused Claude Code plugins for everyday productivity:
