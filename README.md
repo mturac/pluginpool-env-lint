@@ -1,3 +1,5 @@
+![hero](./assets/hero.svg)
+
 # env-lint
 
 **Catch missing/extra env-var keys before they bite you in prod. Never prints values.**
